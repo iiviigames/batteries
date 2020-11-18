@@ -1,4 +1,7 @@
-# ⚡ Batteries for Lua
+# Custom ⚡ Batteries for Lua
+
++ Experimental Designs by _me_, _**iivii**_
++ [Original Author](https://github.com/1bardesign)
 
 > Core dependencies for making games with lua, especially with [LÖVE](https://love2d.org).
 
